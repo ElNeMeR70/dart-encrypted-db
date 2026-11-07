@@ -1,0 +1,5 @@
+name: dart_encrypted_db
+description: Encrypted SQLite with per-row key derivation
+version: 1.0.0
+environment:
+  sdk: '>=3.0.0 <4.0.0'
